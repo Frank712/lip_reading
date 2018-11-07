@@ -25,4 +25,4 @@ else
 echo "El directorio ${line} ya existe"
 fi
 done
-
+ls | wc -l > '../num_words.txt' 
