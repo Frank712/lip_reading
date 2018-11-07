@@ -6,6 +6,8 @@
 - allPoints: contains all the points (download [here]())
 - dataWord: contains the cvs files corresponding to points for each word (this diretory auto-generated)
 - scripts: contains the python files 
+- data: contains separate cvs files in test and training sets.
+- tmp: contains temporary files
 
 
 ## Preparing
